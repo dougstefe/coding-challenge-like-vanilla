@@ -1,8 +1,8 @@
 export class ChallengeLike {
 
-    constructor(endpoint, trackCode){
-        this.endpoint = endpoint;
-        this.trackCode = trackCode;
+    constructor(config){
+        this.endpoint = config.endpoint;
+        this.trackCode = config.trackCode;
     }
 
     auth(){
