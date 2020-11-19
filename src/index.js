@@ -1,2 +1,2 @@
-import { Like } from './lib/like';
-export default Like;
+import { ChallengeLike } from './lib/like';
+export default ChallengeLike;
