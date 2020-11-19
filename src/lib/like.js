@@ -1,4 +1,4 @@
-export class Like {
+export class ChallengeLike {
 
     constructor(endpoint, trackCode){
         this.endpoint = endpoint;
