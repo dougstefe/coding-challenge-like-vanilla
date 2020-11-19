@@ -2,9 +2,9 @@
   "name": "coding-challenge-like-vanilla",
   "version": "1.0.0",
   "description": "Lib js para gerenciar interações (like/dislike) em posts.",
-  "main": "src/index.js",
+  "main": "dist/main.js",
   "scripts": {
-    "build": "webpack --config webpack.config.js"
+    "prepare": "webpack"
   },
   "repository": {
     "type": "git",
